@@ -1,4 +1,4 @@
-# Revisão de Redux: Criando uam lista de tarefas.
+# Revisão de Redux: Criando uma lista de tarefas.
 
 Os códigos desse repositório estão comentados com informações a respeito da lógica e estruturação do Redux.
 Os comentários se encontram nos seguintes arquivos (recomendo a leitura na ordem descrita abaixo):
